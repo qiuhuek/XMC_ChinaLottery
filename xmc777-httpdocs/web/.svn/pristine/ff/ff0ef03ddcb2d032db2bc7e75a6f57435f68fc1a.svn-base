@@ -1,0 +1,6 @@
+<?php
+class Deposit extends WebLoginBase{
+	public final function depositProcess(){
+        return array('Desc'=>'ok');
+	}
+}

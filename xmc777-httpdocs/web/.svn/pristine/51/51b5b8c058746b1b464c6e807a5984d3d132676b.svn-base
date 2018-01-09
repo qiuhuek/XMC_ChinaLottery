@@ -1,0 +1,33 @@
+<?php
+
+class Deposit extends WebLoginBase
+{
+    public final function depositProcess()
+    {
+        $data = array(
+            'Desc' => 'ok',
+            'Records' => array(
+                'sReceiverAddr' => '深圳市',
+                'sReceiverName' => '李先生',
+                'sReceiverBank' => '中国银行',
+                'sReceiverAccount' => '6778762173849012394012903',
+            )
+        );
+        return $data;
+    }
+
+    public final function depositSucess()
+    {
+        $data = array(
+            'Desc' => 'ok',
+            'status' => 1,
+            'Records' => array(
+                'sReceiverAddr' => '深圳市',
+                'sReceiverName' => '李先生',
+                'sReceiverBank' => '中国银行',
+                'sReceiverAccount' => '6778762173849012394012903',
+            )
+        );
+        return $data;
+    }
+}

@@ -1,0 +1,53 @@
+function gamed_selected(bet,gameId) {
+    var tyz = getCookie("tyz");
+    if(tyz == 1){
+        return false;
+    }
+    setCookie("tyz",1);
+    var strs = new Array(); //定义一数组
+    strs = bet.split("|"); //字符分割
+    console.log(strs);
+    switch(gameId){
+        case "12":
+            var num_select = $('#num-select');
+            num_select.children('div').children('div').each(function (j,b) {
+                console.log(b);
+                $(b).find('input').each(function (n,t) {
+                    var a = $(t).val();
+                    if(a.length == 1){
+                        a = "0"+a;
+                    }
+
+                    var b = strs[j];
+                    if(b.length == 1){
+                        b = "0"+b;
+                    }
+                    if(a == b){
+                        $(t).addClass('checked');////C38/web/skin/main/game.js
+                    }
+                });
+            });
+            break;
+        default:
+            var num_select = $('#num-select');
+            num_select.children('div').each(function (j,b) {
+                console.log(b);
+                $(b).find('input').each(function (n,t) {
+                    var a = $(t).val();
+                    if(a.length == 1){
+                        a = "0"+a;
+                    }
+
+                    var b = strs[j];
+                    if(b.length == 1){
+                        b = "0"+b;
+                    }
+                    if(a == b){
+                        $(t).addClass('checked');////C38/web/skin/main/game.js
+                    }
+                });
+            });
+            break;
+    }
+
+}

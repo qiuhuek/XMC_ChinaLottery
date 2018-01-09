@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="bdaa8991-8777-414c-a25f-9b2d3b6dd8ae" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="admin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="System.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blast_back/admin/System.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="77" column="60" lean-forward="false" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="60" />
+              <folding>
+                <marker date="1502177841663" expanded="true" signature="205:261" ph="insert into $... " />
+                <marker date="1502177841663" expanded="true" signature="4301:4347" ph="delete from " />
+                <marker date="1502177841663" expanded="true" signature="5029:5074" ph="insert into $... " />
+                <marker date="1502177841663" expanded="true" signature="5804:5847" ph="insert into $... " />
+                <marker date="1502177841663" expanded="true" signature="7883:7926" ph="delete from " />
+                <marker date="1502177841663" expanded="true" signature="8196:8237" ph="insert into $... " />
+                <marker date="1502177841663" expanded="true" signature="9009:9075" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="9138:9198" ph="select usern... $" />
+                <marker date="1502177841663" expanded="true" signature="9459:9527" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="9590:9652" ph="select usern... $" />
+                <marker date="1502177841663" expanded="true" signature="9913:9981" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="10044:10102" ph="select usern... $" />
+                <marker date="1502177841663" expanded="true" signature="10357:10406" ph="delete from " />
+                <marker date="1502177841663" expanded="true" signature="10670:10721" ph="delete from " />
+                <marker date="1502177841663" expanded="true" signature="11207:11260" ph="select short... $" />
+                <marker date="1502177841663" expanded="true" signature="11792:11838" ph="select * fro... $" />
+                <marker date="1502177841663" expanded="true" signature="12003:12053" ph="select name $" />
+                <marker date="1502177841663" expanded="true" signature="12273:12341" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="12407:12468" ph="select group... $" />
+                <marker date="1502177841663" expanded="true" signature="12691:12761" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="12822:12872" ph="select name $" />
+                <marker date="1502177841663" expanded="true" signature="13081:13143" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="13204:13254" ph="select name $" />
+                <marker date="1502177841663" expanded="true" signature="13461:13525" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="13590:13640" ph="select name $" />
+                <marker date="1502177841663" expanded="true" signature="13938:13988" ph="select name $" />
+                <marker date="1502177841663" expanded="true" signature="14983:15046" ph="update ${{$t... " />
+                <marker date="1502177841663" expanded="true" signature="15082:15138" ph="select usern... $" />
+                <marker date="1502177841663" expanded="true" signature="15404:15460" ph="delete from " />
+                <marker date="1502177841663" expanded="true" signature="16148:16212" ph="update ${{$t... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blast_Front/admin/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blast_back" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blast_back" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Auser\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdaa8991-8777-414c-a25f-9b2d3b6dd8ae" name="Default" comment="" />
+      <created>1504101012561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504101012561</updated>
+      <workItem from="1504101014162" duration="1475000" />
+      <workItem from="1504496390707" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1386" height="788" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25414783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blast_Front/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4520">
+          <caret line="226" column="36" lean-forward="true" selection-start-line="226" selection-start-column="36" selection-end-line="226" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blast_Front/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="226" column="36" lean-forward="false" selection-start-line="226" selection-start-column="36" selection-end-line="226" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blast_back/admin/System.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="77" column="60" lean-forward="false" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="60" />
+          <folding>
+            <marker date="1502177841663" expanded="true" signature="205:261" ph="insert into $... " />
+            <marker date="1502177841663" expanded="true" signature="4301:4347" ph="delete from " />
+            <marker date="1502177841663" expanded="true" signature="5029:5074" ph="insert into $... " />
+            <marker date="1502177841663" expanded="true" signature="5804:5847" ph="insert into $... " />
+            <marker date="1502177841663" expanded="true" signature="7883:7926" ph="delete from " />
+            <marker date="1502177841663" expanded="true" signature="8196:8237" ph="insert into $... " />
+            <marker date="1502177841663" expanded="true" signature="9009:9075" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="9138:9198" ph="select usern... $" />
+            <marker date="1502177841663" expanded="true" signature="9459:9527" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="9590:9652" ph="select usern... $" />
+            <marker date="1502177841663" expanded="true" signature="9913:9981" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="10044:10102" ph="select usern... $" />
+            <marker date="1502177841663" expanded="true" signature="10357:10406" ph="delete from " />
+            <marker date="1502177841663" expanded="true" signature="10670:10721" ph="delete from " />
+            <marker date="1502177841663" expanded="true" signature="11207:11260" ph="select short... $" />
+            <marker date="1502177841663" expanded="true" signature="11792:11838" ph="select * fro... $" />
+            <marker date="1502177841663" expanded="true" signature="12003:12053" ph="select name $" />
+            <marker date="1502177841663" expanded="true" signature="12273:12341" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="12407:12468" ph="select group... $" />
+            <marker date="1502177841663" expanded="true" signature="12691:12761" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="12822:12872" ph="select name $" />
+            <marker date="1502177841663" expanded="true" signature="13081:13143" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="13204:13254" ph="select name $" />
+            <marker date="1502177841663" expanded="true" signature="13461:13525" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="13590:13640" ph="select name $" />
+            <marker date="1502177841663" expanded="true" signature="13938:13988" ph="select name $" />
+            <marker date="1502177841663" expanded="true" signature="14983:15046" ph="update ${{$t... " />
+            <marker date="1502177841663" expanded="true" signature="15082:15138" ph="select usern... $" />
+            <marker date="1502177841663" expanded="true" signature="15404:15460" ph="delete from " />
+            <marker date="1502177841663" expanded="true" signature="16148:16212" ph="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

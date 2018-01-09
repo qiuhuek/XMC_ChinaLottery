@@ -1,0 +1,9 @@
+<?php $this->display('C38_header.php'); ?>
+<?php
+  $test = explode('=', $_SERVER["QUERY_STRING"]);
+print_r($test);
+	   $page='/help/'.$test[1].'.php';
+ // include_once('/help/'+$test+'.php');
+  $this->display($page); 
+?>
+<?php $this->display('C38_footer.php'); ?>
